@@ -11,5 +11,5 @@ Projeto construído do evento Next Level Week da Rocketseat
 
 ## Contatos
 
-Tel: (11)96923-6782
-E-mail: thiagosarafana10@gmail.com
+-Tel: (11)96923-6782
+-E-mail: thiagosarafana10@gmail.com
